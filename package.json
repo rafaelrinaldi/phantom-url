@@ -1,7 +1,7 @@
 {
   "name": "phantom-url",
   "version": "1.0.0",
-  "description": "Lazy implementation of Node's native `url` module to work with PhantomJS.",
+  "description": "Node's native URL parser to work with PhantomJS.",
   "main": "index.js",
   "engines": {
     "node": ">=0.12.0"
