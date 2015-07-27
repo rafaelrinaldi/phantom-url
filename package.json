@@ -1,0 +1,31 @@
+{
+  "name": "phantom-url",
+  "version": "1.0.0",
+  "description": "Lazy implementation of Node's native `url` module to work with PhantomJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "browserify test.js | tape-run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelrinaldi/phantom-url.git"
+  },
+  "keywords": [
+    "panthom",
+    "phantomjs",
+    "url",
+    "parser",
+    "lazy"
+  ],
+  "author": "Rafael Rinaldi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafaelrinaldi/phantom-url/issues"
+  },
+  "homepage": "https://github.com/rafaelrinaldi/phantom-url#readme",
+  "devDependencies": {
+    "browserify": "^11.0.0",
+    "tape": "^4.0.1",
+    "tape-run": "^1.0.0"
+  }
+}
