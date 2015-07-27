@@ -1,4 +1,4 @@
-# phantom-url
+# phantom-url [![Build Status](https://travis-ci.org/rafaelrinaldi/phantom-url.svg?branch=master)](https://travis-ci.org/rafaelrinaldi/phantom-url)
 
 > Node's native URL parser to work with PhantomJS.
 
