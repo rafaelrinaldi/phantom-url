@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Lazy implementation of Node's native `url` module to work with PhantomJS.",
   "main": "index.js",
+  "engines": {
+    "node": ">=0.12.0"
+  },
   "scripts": {
     "test": "browserify test.js | tape-run"
   },
