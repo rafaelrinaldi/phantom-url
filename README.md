@@ -16,16 +16,16 @@ $ npm install phantom-url
 var url = require('phantom-url');
 
 url('http://localhost:8080/index.html');
-{
-   "hash": "",
-   "host": "localhost:8080",
-   "hostname": "localhost",
-   "href": "http://localhost:8080/index.html",
-   "pathname": "/index.html",
-   "port": "8080",
-   "protocol": "http:",
-   "search": ""
-}
+// {
+//    "hash": "",
+//    "host": "localhost:8080",
+//    "hostname": "localhost",
+//    "href": "http://localhost:8080/index.html",
+//    "pathname": "/index.html",
+//    "port": "8080",
+//    "protocol": "http:",
+//    "search": ""
+// }
 ```
 
 ## Why
